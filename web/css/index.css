@@ -1,0 +1,11 @@
+body { 
+	font-size: 120% 
+}
+.header {
+	padding-top: 10px;
+	padding-bottom: 30px;
+}
+table.dataTable th,
+table.dataTable td {
+    white-space: nowrap;
+}
